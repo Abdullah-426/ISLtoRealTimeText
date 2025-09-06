@@ -4,7 +4,7 @@ import os
 from image_processing import func
 
 # Input dataset (raw captured images)
-input_path = "Images(Dataset) 400x300"
+input_path = "Indian"
 
 # Output dataset (processed and split)
 output_path = "data2"
