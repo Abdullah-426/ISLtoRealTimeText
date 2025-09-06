@@ -4,10 +4,10 @@ import os
 from image_processing import func
 
 # Input dataset (raw captured images)
-input_path = "Indian"
+input_path = "Dataset"
 
 # Output dataset (processed and split)
-output_path = "data2"
+output_path = "smaller-data"
 train_path = os.path.join(output_path, "train")
 test_path = os.path.join(output_path, "test")
 
